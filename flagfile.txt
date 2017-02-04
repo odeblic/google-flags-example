@@ -1,0 +1,10 @@
+--help
+--helpfull
+--helpshort
+--helpxml
+
+--helpon=FILE
+--helpmatch=S
+
+--helppackage
+
